@@ -24,6 +24,7 @@
 # WSL2 
 ## Install WSL2 Kernel
 (1) Download [WSL2 Kernel](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi)
+
 (2) Power Shell (Admin) and Run
 ```
 wsl --set-default-version 2
@@ -32,6 +33,7 @@ wsl --set-default-version 2
 
 ## Install your Linux distribution
 (1) Open [Microsoft Store](https://aka.ms/wslstore)
+
 (2) Search and install Ubuntu
 ![Install Ubuntu 20.04](pictures/7-install-ubuntu20-04.png)
 
