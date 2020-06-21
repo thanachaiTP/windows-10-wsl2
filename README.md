@@ -5,12 +5,13 @@
 
 ## Enable Windows Subsystem for Linux (WSL)
 ![Contral Panel](pictures/2-contral-panel-programs-turn-features.png)
-![Enable WSL](pictures/3-enable-wsl.png)
+![Enable WSL](pictures/3-enable-wsl_vm.png)
 
 <h4>Restart Windows</h4>
 
 ![Restart Windows](pictures/4-restart.png)
 
+### OR
 ## Enabling Virtual Machine Platform
 <h4> Power Shell (Admin)</h4>
 
