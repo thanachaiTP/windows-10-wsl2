@@ -18,7 +18,8 @@
 ![Restart Windows](pictures/5.enable-virtualmachineplatform.png)
 
 <h4>Restart Windows</h4>
-
+---
+# WSL2 
 ## Install WSL2 Kernel
 (1) Download [WSL2 Kernel](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi)
 (2) Power Shell (Admin) and Run
